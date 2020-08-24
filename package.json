@@ -7,7 +7,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development",
     "eslint": "eslint src/ --fix",
-    "format": "prettier --write '{*.js,src/**/*.{js,jsx}}'",
+    "format": "prettier --write \"src/*.+(js|jsx|json)\"",
     "test": "jest"
   },
   "repository": {
@@ -37,6 +37,7 @@
     "react-scripts": "^3.4.1",
     "react-svg-loader": "^3.0.3",
     "react-toastify": "^6.0.8",
+    "react-transition-group": "^4.4.1",
     "reactfire": "^2.0.0-alpha.3",
     "svg-react-loader": "^0.4.6"
   },

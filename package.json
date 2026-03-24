@@ -31,7 +31,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "date-fns": "^2.30.0",
     "firebase": "^7.24.0",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.3.4",
     "react-scripts": "^5.0.1",
